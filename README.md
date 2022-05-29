@@ -3,8 +3,8 @@ Building a movie recommendation system using User-Based Collaborative Filtering(
 
 ## Dataset
 IMDB(Movies and Rating)
-Movies - 10329 rows and 3 columns
-Rating - 105339 rows and 4 columns
+1. Movies - 10329 rows and 3 columns
+2. Rating - 105339 rows and 4 columns
 
 ## What is UBCF method?
 User-based Collaborative Filtering is a type of Memory-based Collaborative Filtering that uses all user data in the database to create recommendations.
