@@ -22,4 +22,6 @@ if the resultant value is 1 then users are said to be identical and if the value
 3. Creating recommender model
 4. Recommending movies to user
 
+## Programming Language Used
+R programming language
 
